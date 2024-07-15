@@ -3,8 +3,8 @@
 Criação de uma aplicação usando React e Django
 </p>
 <p align="center" >
- <img src="https://img.shields.io/static/v1?label=JavaScript&message= _&color=blue&style=for-the-badge&logo=react"/>
- <img src="https://img.shields.io/static/v1?label=HTML&message= _&color=blue&style=for-the-badge&logo=django"/>
+ <img src="https://img.shields.io/static/v1?label=React&message= _&color=blue&style=for-the-badge&logo=react"/>
+ <img src="https://img.shields.io/static/v1?label=Django&message= _&color=blue&style=for-the-badge&logo=django"/>
  <img src="https://img.shields.io/static/v1?label=CSS&message= _&color=blue&style=for-the-badge&logo=CSS3"/>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=RED&style=for-the-badge"/>
 </p>
